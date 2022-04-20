@@ -1,0 +1,143 @@
+[[FastME]]
+arch = "aarch64"
+git-tree-sha1 = "5e0fca1ee444a05f68c3f0a5080bef33a49bb635"
+os = "macos"
+
+    [[FastME.download]]
+    sha256 = "f636170e46ccad1ecd3405cb415cf9e1f838a2aefeaee2ac09266714abf0d7a1"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.aarch64-apple-darwin.tar.gz"
+[[FastME]]
+arch = "aarch64"
+git-tree-sha1 = "3a1a52dac529b4d91a9bc3efbec853b4dccdf554"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "3f871a81115e3b63b495833dd2c8b4d6e53f773d83d87143c02d730345c9392c"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.aarch64-linux-gnu.tar.gz"
+[[FastME]]
+arch = "aarch64"
+git-tree-sha1 = "ccbf74f5e61766958505d954278d4e28dd16b516"
+libc = "musl"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "96189758b04223de15cdadc108a07bf9d70453d1a700a90084c6c9bce20ba850"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.aarch64-linux-musl.tar.gz"
+[[FastME]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8a484d2b001dbffc8f603689a4123b3b930118d7"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "a5576342df8e18e2293cd7663e180cae72ad0f88f06ec36e77bc86ee8d4b591f"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.armv6l-linux-gnueabihf.tar.gz"
+[[FastME]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "da9d11fbb3f64311737317310fe21685074660b8"
+libc = "musl"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "565cbc553be73e68efaf5dc7f4a8043d82c9f101c14521ed9b357f6056aa5295"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.armv6l-linux-musleabihf.tar.gz"
+[[FastME]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b84c2c997a1cff904a28476cc78be4a43d519acf"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "a89689baad7cfd8342be324c28ca5154b46cf21d0ba304d21425389ae9cd5113"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.armv7l-linux-gnueabihf.tar.gz"
+[[FastME]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "50762689f5ccc3bf17f17b59387414a35aa696dc"
+libc = "musl"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "af5c8712a3e2fcbefab119d59200ab203ad9d482ad1b9d1d2012ddc181d5c99e"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.armv7l-linux-musleabihf.tar.gz"
+[[FastME]]
+arch = "i686"
+git-tree-sha1 = "b02d39d58d3369d25c2b150080345d862cc151c0"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "39f04e6e230ac59f6cb3683ffb27ae68e3589af7bb38179fd8e7a2a1f731dbc7"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.i686-linux-gnu.tar.gz"
+[[FastME]]
+arch = "i686"
+git-tree-sha1 = "3c7fd8b62937adf43eb7caef09abd00bab60a033"
+libc = "musl"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "81295cb1ad85199113af3a149ff518beac287ea4c4b0276ff00ba4f68174c9f1"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.i686-linux-musl.tar.gz"
+[[FastME]]
+arch = "i686"
+git-tree-sha1 = "b1c358858b018fdf9ceeb04cec0c4055f5219d8a"
+os = "windows"
+
+    [[FastME.download]]
+    sha256 = "1a7e9062af077d2ba3d82fe6b93ec7142c2b63aad31b82f9dd7feeb6d9f11496"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.i686-w64-mingw32.tar.gz"
+[[FastME]]
+arch = "powerpc64le"
+git-tree-sha1 = "e881864a19fc54aeedd18d3648314566f155e651"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "abb1937ace32728c176be2ff8f7d9c75342f9f78316fcb81b20ee96321260698"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.powerpc64le-linux-gnu.tar.gz"
+[[FastME]]
+arch = "x86_64"
+git-tree-sha1 = "42d1d7041dd27f28f0cf9da0fc545609f59f19da"
+os = "macos"
+
+    [[FastME.download]]
+    sha256 = "9cfe6242964f6609d696d9d021466de24de00a26cee3d80b6d75ac641fbd0118"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.x86_64-apple-darwin.tar.gz"
+[[FastME]]
+arch = "x86_64"
+git-tree-sha1 = "b3b735449a403413fc7a69e6a1393c9ffb1918ff"
+libc = "glibc"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "6ff5de2d3d2e244870dc2353ecca7eb49f9a946494f9dc8975bf658f9c337403"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.x86_64-linux-gnu.tar.gz"
+[[FastME]]
+arch = "x86_64"
+git-tree-sha1 = "505bb9b07db676b71309f87b216cbbf2f6432a27"
+libc = "musl"
+os = "linux"
+
+    [[FastME.download]]
+    sha256 = "206a0c0b9ffcca1a38f2d24fc7ea922982fddcb0a625c127b869d9a360d4f9cf"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.x86_64-linux-musl.tar.gz"
+[[FastME]]
+arch = "x86_64"
+git-tree-sha1 = "ba66b055d1fbf2d37c3efc829ff71e43499370ab"
+os = "freebsd"
+
+    [[FastME.download]]
+    sha256 = "9115aa47323cdca05c5aabe08ca46d4420f6694b3e029a7b87c235b2dab909c6"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.x86_64-unknown-freebsd.tar.gz"
+[[FastME]]
+arch = "x86_64"
+git-tree-sha1 = "a68fec90869961d649fa73d3871638e4acbb44b5"
+os = "windows"
+
+    [[FastME.download]]
+    sha256 = "cb7a21a080f86442f0e2cc52802ca4eaa7edfe71f1ba11327e41e1e434f225a4"
+    url = "https://github.com/JuliaBinaryWrappers/FastME_jll.jl/releases/download/FastME-v2.1.6+0/FastME.v2.1.6.x86_64-w64-mingw32.tar.gz"
